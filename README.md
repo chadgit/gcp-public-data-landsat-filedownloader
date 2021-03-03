@@ -1,4 +1,4 @@
-# test-node-fetch-api
+# gcp-public-data-landsat-filedownloader
 (note once I realized it was XML output and not json, this repo name ceased to make sense.)
 Todo: rename this repo. 
 
