@@ -1,6 +1,6 @@
 # gcp-public-data-landsat-filedownloader
 
-During the 1 hour search for node modules that can read xml, I tried xml2js. 
+In this repo, querying XML to JS objects with XML2JS. 
 
 Reasoning is that JSON objects are easier to feed to Data Grids in either React or Angular apps. 
 
